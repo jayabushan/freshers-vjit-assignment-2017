@@ -1,0 +1,6 @@
+ChickenBiryani 200
+MuttonBiryani 160
+ChickenFamiky 400
+FishBiryani 200
+TandooriChicken 18
+ChickenCurry 120

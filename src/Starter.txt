@@ -1,0 +1,5 @@
+GunturChickenDry 160
+DumkaChicken 180
+ChickenLolipop 120
+ChickenKabab 100
+LemonChickenDry 130
