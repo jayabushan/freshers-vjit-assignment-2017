@@ -18,7 +18,7 @@ import java.util.HashMap;
 import java.util.*;
 import java.io.*;
  
-public  class Menu {
+public  class Code2 {
      static HashMap<String,String> map1 =new HashMap<String,String>();
 
     public static void listMenu() throws FileNotFoundException,IOException,NoSuchElementException {
@@ -38,7 +38,7 @@ public  class Menu {
        }
          StringTokenizer token;
         String t,token1 = "",token2 = "";
-        Menu c = new Menu();
+        Code2 c = new Code2();
         while((t=ar.readLine())!=null){
             token = new StringTokenizer(t," ");
             while(token.hasMoreTokens()){
